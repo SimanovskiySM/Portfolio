@@ -1,5 +1,4 @@
 # Portfolio
-Некоторые из выполненных мной в ходе обучения на курсе "Специалист по Data Science" Яндекс Практикума проектов.
 | # | Название проекта  | Стек     |
 |---|-------------------|----------|
 |1. | [Выявление закономерностей успешности видеоигр](https://github.com/SimanovskiySM/Portfolio/tree/main/Videogames)           | python, pandas, matplotlib, seaborn, scipy, numpy  |
